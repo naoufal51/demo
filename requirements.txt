@@ -1,5 +1,4 @@
 asyncssh
 numpy>=1.14.0
-asyncssh>=1.11.1
 apssh>=0.7.3
 asynciojobs>=0.5.7
