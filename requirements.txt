@@ -1,4 +1,7 @@
+wheel
+plotly
 asyncssh>=1.11.1
 asynciojobs>=0.5.7
 numpy>=1.14.0
+apssh>=0.7.3
 
